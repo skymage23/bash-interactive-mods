@@ -1,7 +1,7 @@
 # bash-interactive-mods
 A (small) SDK for developing and using what I call "interactive mods" ("imods") in Bash.
 
-#What are "Interactive Mods"?
+# What are "Interactive Mods"?
 "Interactive mods", or "imods", are Bash shell scriptlets that are intended to enhance
 the interactive shell experience. What makes these different from regular
 programs is that they treat the human needs as a common linking factor
@@ -45,7 +45,7 @@ Finally, as illustrated above, "interactive mods" can, and often will, depend on
 allowing for code-sharing to minimize writing boilerplate code.
 
 
-#Great, more software I have to manually version track.
+# Great, more software I have to manually version track.
 Actually, it is the developers' intent to make it so that "imods" are
 included in your Linux distro's package management repositories. This allows
 your package manager to handle version tracking and updates. Additionally,
