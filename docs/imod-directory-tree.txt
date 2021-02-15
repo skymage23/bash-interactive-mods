@@ -1,0 +1,11 @@
+/var/lib
+--->bash_imod
+------>critical
+--------->bin
+------------>[file]imod_init.bash
+--------->imods
+------------>[file]imod_err.imod
+------>imods
+------>testing
+--------->utils
+------------>bats

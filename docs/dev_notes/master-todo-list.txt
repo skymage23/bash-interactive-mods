@@ -1,0 +1,11 @@
+[Owner: Development Lead]
+1.Develop method of loading and unloading imods.
+2.Develop and implement inheritance model.
+3.Implement simple garbage collection that layers over Bash's
+    garbage collection.
+4.Develop a so-called "context stack" that allows for switching to
+  a new shell context temporarily with imod support pre-loaded as well
+  as certain, pre-selected holdovers from the previous context.
+      Probably want to fork processes to do this with fresh copies of the Bash binary.
+  Try to give the current context control over the Terminal Emulator.
+      Re: To allow for full Bash interactive shell support even in sub-contexts.
