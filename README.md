@@ -9,7 +9,7 @@ between them.  Their developer understands that it is the brain of the
 user that holds state for the system.
 
 Consider how a Shared Object (Dynamic Library, for the Windows folks) holds
-utility functions that are useful in multiple contexts and call orders,
+utility functions that are useful in multiple contexts and call orders 
 and know that "imods" are likewise for human users. They are
 libraries of utility functions that can support a variety of needs, and
 exist mainly to make trivial to do what would otherwise be a large and costly
